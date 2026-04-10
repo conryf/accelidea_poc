@@ -1,0 +1,10 @@
+aiosqlite
+anthropic
+fastapi[standard]
+pdf2image
+pillow
+python-docx
+python-dotenv
+python-multipart
+pytesseract
+uvicorn[standard]
